@@ -45,6 +45,7 @@ h1 {
     border: 0;
     background: transparent;
     cursor: pointer;
+    padding: 5px;
 }
 
 .controls .fa-play {
